@@ -36,5 +36,5 @@ The Kaggle results obtained ast listed as followed:
   * LR - 0.95920
   * MNB - 0.93831
 
-As we can see, the ensemble performed only slightly better than the individual algorithms.  I attempted to train an SVM classifier by reducing features to 60,000, but that still took too long and I had to stop the script.
+As we can see, the ensemble performed only slightly better than the individual algorithms.  I attempted to train an SVM classifier by reducing features to 60,000, but that still took too long and I had to stop the script.  The score obtained from using the ensemble method will put me at rank 82 out of 579 participants, if the competition is still active.
 
